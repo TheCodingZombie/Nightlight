@@ -1,5 +1,6 @@
 # Nightlight
-A small game made for Jame Gam 2024.
+A small game originally made for Jame Gam 2024, now an ongoing project.
+THIS IS UNFINISHED AND IS CURRENTLY IN THE BETA STAGES OF DEVELOPMENT.
 
 # Features
 - Pixel Art Style
@@ -11,9 +12,10 @@ A small game made for Jame Gam 2024.
 - Expansive Map
 
 # Planned Features
-These probably won't be done for the Jame Gam, so instead these are if this gains a lot of support
 - Upgrades (similar to a Metroidvania)
 - Larger Map
+- More Bosses?
+- A Hard Mode?
 
   
  
